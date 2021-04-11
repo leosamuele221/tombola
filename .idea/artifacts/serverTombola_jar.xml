@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="serverTombola:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/serverTombola_jar</output-path>
+    <root id="root">
+      <element id="archive" name="serverTombola.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/serverTombola/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="serverTombola" />
+        <element id="module-output" name="tombola" />
+      </element>
+    </root>
+  </artifact>
+</component>

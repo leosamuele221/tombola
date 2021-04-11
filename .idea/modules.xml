@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/clientTombola/clientTombola.iml" filepath="$PROJECT_DIR$/clientTombola/clientTombola.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serverTombola/serverTombola.iml" filepath="$PROJECT_DIR$/serverTombola/serverTombola.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tombola.iml" filepath="$PROJECT_DIR$/tombola.iml" />
+    </modules>
+  </component>
+</project>
